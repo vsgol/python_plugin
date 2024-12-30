@@ -17,11 +17,11 @@ intellij {
   version.set("2024.1.7")
   type.set("IC") // Target IDE Platform
 
-  plugins.set(listOf("java"))
+  plugins.set(listOf("java", "com.intellij.java"))
 }
 
 dependencies {
-  implementation("org.json:json:20171018")
+  implementation("org.json:json:20231013")
 }
 
 tasks {
