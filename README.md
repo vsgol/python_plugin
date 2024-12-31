@@ -92,5 +92,7 @@ I found **PyInstaller** to be an interesting and unique solution. While file siz
 
 ## Building the Python Executable
 
+The script [text_processor_server.py](src/main/resources/server/), included in the plugin's resources, is purely informational. It describes the Python script that will be executed by the executables. Modifying or replacing it does not affect the plugin.
+
 To build the Python executable required for the plugin, refer to the detailed instructions in the [BuildExecutable repository](https://github.com/vsgol/BuildExecutable).
 
