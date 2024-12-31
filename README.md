@@ -87,3 +87,10 @@ I found **PyInstaller** to be an interesting and unique solution. While file siz
 ### TODO
 - This project currently supports **Windows** and **Linux** systems only.
 - MacOS support may be considered in the future.
+
+---
+
+## Building the Python Executable
+
+To build the Python executable required for the plugin, refer to the detailed instructions in the [BuildExecutable repository](https://github.com/vsgol/BuildExecutable).
+
