@@ -16,8 +16,8 @@ This project is written in **Kotlin** and uses **Gradle** as its build system. F
 
 ### Prerequisites
 
-**IntelliJ IDEA 2024.1.7** 
-2. **JDK 17 or higher** installed and configured.
+**1. IntelliJ IDEA 2024.1.7** 
+**2. JDK 17 or higher** installed and configured.
 
 ### Build the Project
 
